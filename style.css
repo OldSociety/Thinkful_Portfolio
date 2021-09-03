@@ -93,10 +93,11 @@
 }
 
 .sr-only {
+  color: #fff;
   display: none;
 }
 
-.select-menu {
+.select {
   display: none;
 }
 
