@@ -92,6 +92,10 @@
   text-decoration: none;
 }
 
+.sr-only {
+  display: none;
+}
+
 .select-menu {
   display: none;
 }
